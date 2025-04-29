@@ -70,5 +70,39 @@ The dataset includes the following fields:
 
 ---
 
+---
+
+## 📌 How to Run
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/retail-sales-analysis.git
+   cd retail-sales-analysis
+   
+2.Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+
+3.Run scripts or open notebooks to explore analysis and results.
+
+
+✅ Future Improvements
+Add customer-level analysis (if customer ID is available)
+
+Integrate with Power BI or Tableau for advanced dashboards
+
+Develop a web-based dashboard using Flask or Streamlit
+
+🧑‍💻 Author
+Swarali Dadhi
+Data Analyst Intern @ Internship Studio
+📧 swara.dadhi@gmail.com
+www.linkedin.com/in/swarali-dadhi-6816a5314
+
+
+
 
 
