@@ -70,20 +70,15 @@ The dataset includes the following fields:
 
 ---
 
----
 
 ## 📌 How to Run
 
 1. Clone the repo:
-   ```bash
+
    git clone https://github.com/yourusername/retail-sales-analysis.git
    cd retail-sales-analysis
    
 2.Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 
 3.Run scripts or open notebooks to explore analysis and results.
